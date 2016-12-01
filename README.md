@@ -6,6 +6,14 @@ This is a very simple binary file to upload firmware .hex into Arduino Leonardo.
 
 - Auto reset with 1200 baud
 
+## Requirements
+
+### AVRDUDE
+AVRDUDE is a utility to download/upload/manipulate the ROM and EEPROM contents of AVR microcontrollers using the in-system programming technique (ISP). Under ubuntu 16.04 just install with this:
+```
+sudo apt-get install avrdude
+```
+
 ## Installation
 
 ```
