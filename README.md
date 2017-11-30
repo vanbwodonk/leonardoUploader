@@ -17,7 +17,7 @@ sudo apt-get install avrdude
 ## Installation
 
 ```
-https://github.com/vanbwodonk/leonardoUploader.git
+git clone https://github.com/vanbwodonk/leonardoUploader.git
 cd leonardoUploader
 make
 sudo make install
