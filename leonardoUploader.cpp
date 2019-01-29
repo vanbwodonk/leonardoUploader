@@ -51,7 +51,7 @@ int main(int argc, char *argv[])
 	strcpy(hexfile, " -Uflash:w:");
 	strcat(hexfile,argv[2]);
 	char cmd[256];
-	strcpy(cmd, "avrdude -pm32u4 -cavr109 -D ");
+	strcpy(cmd, "avrdude -pm32u4 -cavr109 -F -D ");
 	strcat(cmd, comport);
 	strcat(cmd,hexfile);
 	//retSystem = system("avrdude -pm32u4 -cavr109 -D -P/dev/ttyACM0 -b57600 -Uflash:w:Blink.ino.hex");
