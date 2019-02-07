@@ -1,6 +1,6 @@
 # A simple binary for Arduino Leonardo Upload
 
-This is a very simple binary file to upload firmware .hex into Arduino Leonardo.
+This is a very simple binary file to upload firmware .hex into Arduino Leonardo/Micro (ATmega32u4 with CDC bootloader). Tested with Ubuntu 16.04 and Raspbian Stretch.
 
 ## Features
 
