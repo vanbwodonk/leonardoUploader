@@ -109,11 +109,11 @@ leonardoUploader COM10 Blink.ino.hex
 
 [GNU General Public License, version 2](https://www.gnu.org/licenses/gpl-2.0.html)
 
-Original Work by ***Arif Darmawan*** @vanbwodonk
-Modified and updated for Windows by @boseji 
+Original Work by [***Arif Darmawan***](https://github.com/vanbwodonk)
+Modified and updated for Windows by [*@boseji*](https://github.com/boseji)
 
 ## For AVRdude refer to:
 
 [AVRdude](https://savannah.nongnu.org/projects/avrdude)
 
-Original Work by [***Joreg Wunsh**](https://savannah.nongnu.org/users/joerg_wunsch)
+Original Work by [***Joreg Wunsh***](https://savannah.nongnu.org/users/joerg_wunsch)
