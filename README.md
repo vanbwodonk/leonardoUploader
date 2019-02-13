@@ -69,7 +69,7 @@ Select the following:
 Need the AVRDUDE in path so that `leonardoUploader`
 can perform the operations.
 
-Follow the steps outlined [`AVRDUDE - Win32`](https://github.com/boseji/leonardoUploader#avrdude-win32).
+Follow the steps outlined [`AVRDUDE - Win32`](https://github.com/boseji/leonardoUploader#avrdude---win32).
 
 ### Then:
 
@@ -104,3 +104,16 @@ or for Windows
 ```
 leonardoUploader COM10 Blink.ino.hex
 ```
+
+# License
+
+[GNU General Public License, version 2](https://www.gnu.org/licenses/gpl-2.0.html)
+
+Original Work by ***Arif Darmawan*** @vanbwodonk
+Modified and updated for Windows by @boseji 
+
+## For AVRdude refer to:
+
+[AVRdude](https://savannah.nongnu.org/projects/avrdude)
+
+Original Work by [***Joreg Wunsh**](https://savannah.nongnu.org/users/joerg_wunsch)
