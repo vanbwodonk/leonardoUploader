@@ -12,6 +12,7 @@ tmp/
 *.swp
 *.svn
 *~.nib
+*.hex
 local.properties
 .classpath
 .settings/
