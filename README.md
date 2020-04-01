@@ -43,7 +43,7 @@ One can extract this file the same directory.
 ## Installation - Linux
 
 ```
-git clone https://github.com/boseji/leonardoUploader.git
+git clone https://github.com/vanbwodonk/leonardoUploader.git
 cd leonardoUploader/linux
 make
 sudo make install
@@ -69,7 +69,7 @@ Select the following:
 Need the AVRDUDE in path so that `leonardoUploader`
 can perform the operations.
 
-Follow the steps outlined [`AVRDUDE - Win32`](https://github.com/boseji/leonardoUploader#avrdude---win32).
+Follow the steps outlined [`AVRDUDE - Win32`](https://github.com/vanbwodonk/leonardoUploader#avrdude---win32).
 
 ### Then:
 
