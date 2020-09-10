@@ -78,7 +78,7 @@ Open the MSYS Terminal : `C:\MinGW\msys\1.0\msys.bat`
 And type:
 
 ```
-git clone https://github.com/boseji/leonardoUploader.git
+git clone https://github.com/vanbwodonk/leonardoUploader.git
 cd leonardoUploader/win32
 make
 ```
@@ -117,3 +117,10 @@ Modified and updated for Windows by [*@boseji*](https://github.com/boseji)
 [AVRdude](https://savannah.nongnu.org/projects/avrdude)
 
 Original Work by [***Joreg Wunsh***](https://savannah.nongnu.org/users/joerg_wunsch)
+
+## Donation
+
+If this project help you, you can give me a cup of coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/arifdarma)
+
